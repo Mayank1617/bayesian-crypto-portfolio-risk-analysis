@@ -8,6 +8,7 @@ This project develops a Bayesian risk analysis framework for cryptocurrency port
 - NUTS (No-U-Turn Sampler) based MCMC inference
 - Posterior volatility distributions and uncertainty quantification
 - Multi-asset portfolio risk analysis
+- Heavy-tailed (Student-t) robustness check with degrees-of-freedom estimation and LOO model comparison
 - Real-world cryptocurrency market data obtained via Yahoo Finance
 
 ## Technologies Used
